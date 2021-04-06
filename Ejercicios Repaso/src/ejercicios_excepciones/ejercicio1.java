@@ -11,6 +11,10 @@ public class ejercicio1 {
 			//System.out.println(e.getMessage());
 		} finally {
 			System.out.println("Siempre pinto");
+			System.out.println("Siempre pinto");
+			System.out.println("Siempre pinto");
+			System.out.println("Siempre pinto");
+			System.out.println("Siempre pinto");
 		}
 	}
 
